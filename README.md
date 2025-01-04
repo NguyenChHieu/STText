@@ -1,5 +1,9 @@
 # **STText 🎧💬**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81c98dbd-bcb1-4132-9a7b-fdf7ddb0927b" width="600"/>
+</p> 
+
 ## **What's This?**  
 Turn MP3 files into text like magic! 🪄 Upload your audio, and OpenAI Whisper handles the rest.  
 
@@ -10,7 +14,7 @@ Turn MP3 files into text like magic! 🪄 Upload your audio, and OpenAI Whisper 
 
 ## **Tech Stack**  
 - **Front-End:** ReactJS  
-- **Back-End:** Spring Boot  
+- **Back-End:** Spring Boot (Spring AI)
 - **API:** OpenAI Whisper  
 
 ## **How to Use**  
