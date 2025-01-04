@@ -38,7 +38,7 @@ const AudioUploader = () => {
         <button className="upload-button" onClick={handleUpload}>Transcribe!</button>
 
         <div className="transcription-result">
-            <h2>Here ya go buddy!</h2>
+            <h2>Transcribed text:</h2>
             <p>{transcription}</p>
         </div>
     </div>

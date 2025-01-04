@@ -40,3 +40,60 @@
 .read-the-docs {
   color: #888;
 }
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #fff;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.file-input {
+  margin: 20px 0;
+}
+
+.file-input input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+.upload-button {
+  background-color: rgb(80, 70, 70);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.upload-button:hover {
+  background-color: darkblue;
+}
+
+.transcription-result {
+  margin-top: 30px;
+  text-align: center;
+  color: black;
+}
+
+.transcription-result h2{
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: gray;
+}
+
+.transcription-result p {
+  background-color: #f8f9fa;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #ddd
+}
