@@ -45,3 +45,6 @@ mvn spring-boot:run
 ```
 
 Visit http://localhost:3000 and enjoy the magic! ✨
+
+# Acknowledgments
+- Inspiration for the content was taken from [source](https://www.youtube.com/watch?v=SDZk34mh7wM) by Embarkx - great content!.
